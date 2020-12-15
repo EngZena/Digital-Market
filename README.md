@@ -16,4 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 this is a screenshots of the website 
 https://github.com/EngZena/Digital_Market/blob/main/src/assests/Digital%20Market%20Login.png
-https://github.com/EngZena/Digital_Market/blob/main/src/assests/Digital%20Market%20Login.png
+https://github.com/EngZena/Digital_Market/blob/main/src/assests/Digital%20Market%20Home%20Page%201.png
