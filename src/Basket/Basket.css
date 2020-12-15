@@ -1,0 +1,12 @@
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+
+.deleteBtn {
+  margin: 1em;
+}

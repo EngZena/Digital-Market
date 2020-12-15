@@ -1,0 +1,16 @@
+.container {
+  background-color: #4f5b62;
+  display: flex;
+  margin: 10px;
+}
+.Producte {
+  padding: 0px 5px;
+}
+.btn {
+  margin-left: auto;
+  margin-top: 3%;
+}
+.btnColor {
+  background-color: #000a12;
+  border-color: #000a12;
+}

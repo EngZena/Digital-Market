@@ -1,0 +1,27 @@
+.row {
+  display: flex;
+  padding: inherit;
+  justify-content: center;
+}
+
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+.parent {
+  display: flex;
+  padding-top: 15%;
+  align-items: center;
+  flex-direction: column;
+}
+
+.inputStyle {
+  width: 200px;
+  height: 40px;
+}
+
+.loginBtn {
+  color: azure;
+  background-color: #000a12;
+  font-size: larger;
+}

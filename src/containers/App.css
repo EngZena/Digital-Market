@@ -1,0 +1,36 @@
+.header {
+  text-align: center;
+}
+
+.basket {
+  width: -webkit-fill-available;
+}
+
+.display {
+  display: flex;
+}
+
+.pd-5-110 {
+  padding: 5px 5px;
+}
+
+.background {
+  background-color: #000a12;
+  color: azure;
+  border-color: #4f5b62;
+  cursor: pointer;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+
+.logoutBtn {
+  position: absolute;
+  right: 0px;
+}

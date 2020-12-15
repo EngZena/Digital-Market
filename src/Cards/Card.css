@@ -1,0 +1,19 @@
+.Cards {
+  display: flex;
+  padding: 0px 15px;
+}
+
+.Card {
+  background-color: #4f5b62;
+  color: #ffff;
+  margin: 0px 15px;
+  text-align: center;
+  min-width: 100px;
+}
+
+.btnColor {
+  background-color: #000a12;
+  border-color: #000a12;
+  color: azure;
+  cursor: pointer;
+}
